@@ -30,7 +30,7 @@ goop.status()
 
 **AI-Powered Intelligence:**
 - Analyzes entire page HTML structure
-- Uses Gemini 1.5 Flash to make decisions
+- Uses Gemini 2.0 Flash to make decisions
 - Automatically finds chat inputs and interfaces
 - Responds as the mysterious Goop cult entity
 
