@@ -1,0 +1,40 @@
+MIT License with Disclaimer
+
+Copyright (c) 2025 SimbaE11/SimbaE1
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+DISCLAIMER OF LIABILITY AND ATTRIBUTION:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+USAGE DISCLAIMER:
+
+ANY USE OF THIS SOFTWARE FOR ILLEGAL, HARMFUL, MALICIOUS, OR OTHERWISE 
+PROBLEMATIC PURPOSES IS STRICTLY PROHIBITED. THE ORIGINAL AUTHOR (EZRA ALLISON) 
+SHALL NOT BE HELD RESPONSIBLE, LIABLE, OR ASSOCIATED WITH ANY MISUSE OF THIS 
+SOFTWARE. USERS ARE SOLELY RESPONSIBLE FOR ENSURING THEIR USE COMPLIES WITH 
+ALL APPLICABLE LAWS AND REGULATIONS.
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT:
+1. You will not use this software for any illegal or harmful purposes
+2. You will not attribute any negative consequences of your usage to the original author
+3. You assume full responsibility for your use of this software
+4. Any problems, damages, or legal issues arising from your use are your sole responsibility
+
+This software was created for educational and entertainment purposes within the 
+recess.gg community and should be used responsibly and ethically.
